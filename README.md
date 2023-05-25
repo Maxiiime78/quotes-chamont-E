@@ -9,6 +9,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: CHAMONT Maxime Group E 
 
 ## Fork urls
-- `contributor-1`: [quotes-bar-b](url-1)
-- `contributor-2`: [quotes-wizz-b](url-2)
-- `contributor-3`: [quotes-toto-b](url-3)
+- `contributor-1`: [quotes-guingand-E](https://github.com/ethanwzz/quotes-guingand-E)
+- `contributor-2`: [quotes-djalali_moghadam-E](https://github.com/RayanMoghadam/quotes-djalali-moghadam-E)
+- `contributor-3`: [quotes-chamont-E](https://github.com/Maxiiime78/quotes-chamont-E)
